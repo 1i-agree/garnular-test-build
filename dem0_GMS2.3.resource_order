@@ -399,6 +399,7 @@
     {"name":"sprite431","order":82,"path":"sprites/sprite431/sprite431.yy",},
     {"name":"sprite432","order":83,"path":"sprites/sprite432/sprite432.yy",},
     {"name":"spr_fridge_open","order":84,"path":"sprites/spr_fridge_open/spr_fridge_open.yy",},
+    {"name":"spr_carr","order":113,"path":"sprites/spr_carr/spr_carr.yy",},
     {"name":"spr_fridge_closed","order":85,"path":"sprites/spr_fridge_closed/spr_fridge_closed.yy",},
     {"name":"spr_fridge_closing","order":86,"path":"sprites/spr_fridge_closing/spr_fridge_closing.yy",},
     {"name":"spr_fridge_opening","order":87,"path":"sprites/spr_fridge_opening/spr_fridge_opening.yy",},

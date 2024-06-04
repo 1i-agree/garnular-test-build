@@ -592,6 +592,7 @@
     {"id":{"name":"sprite431","path":"sprites/sprite431/sprite431.yy",},},
     {"id":{"name":"sprite432","path":"sprites/sprite432/sprite432.yy",},},
     {"id":{"name":"spr_fridge_open","path":"sprites/spr_fridge_open/spr_fridge_open.yy",},},
+    {"id":{"name":"spr_carr","path":"sprites/spr_carr/spr_carr.yy",},},
     {"id":{"name":"spr_fridge_closed","path":"sprites/spr_fridge_closed/spr_fridge_closed.yy",},},
     {"id":{"name":"spr_fridge_closing","path":"sprites/spr_fridge_closing/spr_fridge_closing.yy",},},
     {"id":{"name":"spr_fridge_opening","path":"sprites/spr_fridge_opening/spr_fridge_opening.yy",},},
