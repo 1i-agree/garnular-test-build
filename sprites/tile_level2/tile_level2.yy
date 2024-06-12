@@ -4,7 +4,7 @@
   "name": "tile_level2",
   "bbox_bottom": 223,
   "bbox_left": 0,
-  "bbox_right": 319,
+  "bbox_right": 351,
   "bbox_top": 32,
   "bboxMode": 0,
   "collisionKind": 1,
